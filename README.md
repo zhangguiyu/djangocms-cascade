@@ -25,7 +25,7 @@ version 3, I will adopt the current code.
 
 Build status
 ------------
-[![Build Status](https://travis-ci.org/jrief/djangocms-bootstrap.png?branch=master)](https://travis-ci.org/jrief/djangocms-bootstrap)
+[![Build Status](https://travis-ci.org/jrief/djangocms-bootstrap.png?branch=bootstrap-2.3.2)](https://travis-ci.org/jrief/djangocms-bootstrap)
 
 Features
 --------
