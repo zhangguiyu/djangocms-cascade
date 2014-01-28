@@ -8,6 +8,8 @@ env:
   - DJANGO=1.6.1
 
 branches:
+  only:
+    - bootstrap-2.3.2
   except:
     - master
 
