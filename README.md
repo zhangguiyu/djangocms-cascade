@@ -1,3 +1,5 @@
+**Discontinued**: Please note that this branch of the project is discontinued. Its successor is named [djangocms-cascade](/jrief/djangocms-cascade/blob/master/README.md) and uses another, more flexible approach.
+
 djangocms-bootstrap
 ===================
 A collection of plugins for DjangoCMS to add various HTML elements from the CSS framework
@@ -22,10 +24,6 @@ Find detailed documentation on [ReadTheDocs](http://djangocms-bootstrap.readthed
 
 Currently only Bootstrap version 2.3 is supported. As soon as AngularUI is available for Bootstrap
 version 3, I will adopt the current code.
-
-Build status
-------------
-[![Build Status](https://travis-ci.org/jrief/djangocms-bootstrap.png?branch=bootstrap-2.3.2)](https://travis-ci.org/jrief/djangocms-bootstrap)
 
 Features
 --------
