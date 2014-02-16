@@ -1,4 +1,4 @@
-**Discontinued**: Please note that this branch of the project is discontinued. Its successor is named [djangocms-cascade](/jrief/djangocms-cascade/blob/master/README.md) and uses another, more flexible approach.
+**Discontinued**: Please note that this branch of the project is discontinued. Its successor is named [djangocms-cascade](../master/README.md) and uses another, more flexible approach.
 
 djangocms-bootstrap
 ===================
