@@ -31,14 +31,12 @@ INSTALLED_APPS = (
     'djangocms_text_ckeditor',
     'cmsplugin_cascade',
     'cms',
-    'cms.stacks',
     'menus',
     'mptt',
     'south',
     'filer',
     'easy_thumbnails',
-    'cms.plugins.link',
-    'cms.plugins.snippet',
+    'djangocms_link',
     'cmsplugin_filer_file',  # alternative to 'cms.plugins.file'
     'cmsplugin_filer_folder',
     'cmsplugin_filer_image',  # alternative to 'cms.plugins.picture'
@@ -111,7 +109,7 @@ USE_L10N = True
 USE_TZ = True
 
 LANGUAGES = (
-    ('en', 'English'),
+    ('en-us', 'English'),
 )
 
 #############################################################
